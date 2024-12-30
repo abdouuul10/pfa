@@ -1,0 +1,6 @@
+Adafruit-DHT-Fixed
+flask
+pandas
+openpyxl
+streamlit
+requests
